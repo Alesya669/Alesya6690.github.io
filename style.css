@@ -94,6 +94,17 @@ th {
     font-weight: bold;
 }
 
+tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+
+tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+/*tr:hover {
+    background-color: #e3f2fd;
+}
 
 
 /* Подвал */
